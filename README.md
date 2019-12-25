@@ -29,7 +29,7 @@ Things you may want to cover:
 |Column|Type|Options|
 |------|----|-------|
 |name|string|null,false,foreign_key: true|
-|e-mail|string|null,false,foreign_key: true｜
+|e-mail|string|null,false,foreign_key: true|
 
 ## Association
 - has_many :groups
@@ -48,7 +48,7 @@ Things you may want to cover:
 - belongs_to :user
 
 
-## commnentsテーブル
+## commentsテーブル
 
 |Column|Type|Options|
 |------|----|-------|
